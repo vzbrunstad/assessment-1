@@ -4,7 +4,7 @@
 Click [here](https://docs.google.com/spreadsheets/d/1zU9ZkwPn5aWxIuC7NJrxr7fBNvUwjQYFm6hZje-_cZE/edit#gid=0) to see what we are grading you on
 
 ## Rules / Process
-* Fork/clone as usual but don't open a pull request until the time is up. Others will be able to see your answers.
+* Fork repo to your personal Github and clone as usual but don't open a pull request until the time is up. Others will be able to see your answers.
 * This test is fully open notes and open Google
 * 4 hour time limit
 
