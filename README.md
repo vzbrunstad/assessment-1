@@ -6,7 +6,7 @@ Click [here](https://docs.google.com/spreadsheets/d/1zU9ZkwPn5aWxIuC7NJrxr7fBNvU
 ## Rules / Process
 * Fork repo to your personal Github and clone as usual but don't open a pull request until the time is up. Others will be able to see your answers.
 * This test is fully open notes and open Google
-* Work individually (don't consult with other students)
+* Work independently - don't consult with other students!
 * 4 hour time limit
 
 # Part 1: Optimal Change
