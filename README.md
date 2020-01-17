@@ -10,7 +10,7 @@ Click [here](https://docs.google.com/spreadsheets/d/1zU9ZkwPn5aWxIuC7NJrxr7fBNvU
 * 4 hour time limit
 
 # Part 1: Optimal Change
-You are writing a computer program for an electronic [vending machine](http://4827-presscdn.pagely.netdna-cdn.com/wp-content/uploads/2011/09/iPad-Vending-Machine.jpg) to give you the optimal change for an item's cost.
+You are writing a computer program for an electronic vending machine to give you the optimal change for an item's cost.
 
 Create your own class in Python that takes in two arguments - a total price and a user's amount paid. This class will have a method `optimal_change` which will output a string with the optimal change. Here it is in action:
 
