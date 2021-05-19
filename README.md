@@ -1,4 +1,4 @@
-# Assessment 1
+# Assessment 1: Algorithms
 
 ## Important Grading Information
 * TODO PUT RUBRIC HERE
