@@ -9,7 +9,7 @@
 * This test is fully open notes and open Google, but is not to be completed with other students
 * Do not open a pull request against this repository. We will evaluate your code individually with you.
 
-# Part 1: Algorithms
+## Challenge
 You are writing a computer program for an electronic vending machine to give you the optimal change for an item's cost. Write a method called `optimal_change` that takes in two arguments: `item_cost` and `amount_paid`. The method will `print` a string with optimal change which follows the following convention:
 
 ```
