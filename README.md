@@ -31,5 +31,6 @@ optimal_change(31.51, 50)
 
 Don't forget to account for plural denominations (i.e., quarters, dimes, pennies, bills) and punctuation (i.e., commas and the period at the end of a sentence) to delineate between different denominations. Some other things to note:
 - This is **optimal** change. Obviously, you can give the change in pennies, but we're looking for the most optimal (least amount of) change possible.
+- Only consider *common* monetary denominations (i.e. ignore any denomination larger than $100-bill, ignore $2-bills, half-dollars, etc...)
 - Fully understand the data types of your input and output
 - Write at least 4-5 unit tests. Feel free to start with the two examples above. Make sure you test various parts of your algorithm (common cases, edge cases, special cases, etc...)
