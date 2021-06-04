@@ -46,13 +46,10 @@ def optimal_change(owed,paid): # Define the change function that returns a strin
             optimal_change_dir[x] +=+1 
             change -= us_currency [x]
             change =  round(change,4)
-    
-    
-    for z in optimal_change_dir: # checks the position of last non-zero value in optimal_change_dir
-        if optimal_change_dir[z]!=0:
-            optimal_change_last_value = z
-
-
+            if optimal_change_dir[x]!=0:# checks the position of last non-zero value in optimal_change_dir
+                optimal_change_last_value = x
+  
+  
     optimal_change_str = f"The optimal change for an item that costs ${owed} with an amount paid of ${paid} is"
     i = 0
     for y in optimal_change_dir: # Add # of each bill in optimal_change_dir to the optimal_change_string
